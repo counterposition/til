@@ -1,2 +1,4 @@
-# til
-Today I Learned: notes too concise to be a blog post
+# Today I Learned
+
+Time is of the essence.
+This is a collection of concise notes about all kinds of things.
